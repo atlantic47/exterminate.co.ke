@@ -25,7 +25,7 @@ const services = [
     name: "General Fumigation",
     tagline: "Whole-Structure Eradication",
     description:
-      "Our 5-step fumigation process — Inspection, Preparation, Treatment, Aeration, and Post-Fumigation Guidelines — penetrates every crack and void, eliminating pests that surface sprays can't reach.",
+      "Our 5-step <a href=\"https://www.fumigationkenya.co.ke/\" target=\"_blank\" rel=\"noopener noreferrer\" className=\"text-blue-600 underline font-semibold hover:text-blue-800\">fumigation process</a> — Inspection, Preparation, Treatment, Aeration, and Post-Fumigation Guidelines — penetrates every crack and void, eliminating pests that surface sprays can't reach.",
     features: ["5-Step Process", "KEBS-Approved Fumigants", "Re-Entry Clearance Certificate", "Retreat Guarantee"],
     backlink: { label: "Learn about mosquito & sandfly control", href: "https://pestraid.co.ke/services/mosquitoes-and-sandflies-control-services-and-pricing-in-kenya/" },
   },
