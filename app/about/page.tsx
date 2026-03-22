@@ -25,7 +25,7 @@ export default function AboutPage() {
             Protecting Kenyan Homes & Businesses Since Day One
           </h1>
           <p className="text-lg text-neutral-300 max-w-2xl">
-            Pestraid Kenya | Fumigation and Pest Control Services Company Nairobi Kenya was founded on a simple belief: Kenyans deserve access to professional-grade pest control that is honest, effective, and genuinely affordable — not corner-cutting, not guesswork.
+            Exterminate Pests Kenya was founded on a simple belief: Kenyans deserve access to professional-grade pest control that is honest, effective, and genuinely affordable — not corner-cutting, not guesswork.
           </p>
         </div>
       </section>

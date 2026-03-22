@@ -43,9 +43,9 @@ function Footer() {
         <div className="flex flex-col gap-4">
           <div className="flex items-center gap-2">
             <div className="flex h-8 w-8 items-center justify-center bg-white text-black font-heading font-bold text-xl rounded-sm">
-              P
+              E
             </div>
-            <span className="font-heading font-bold text-lg tracking-tight">Pestraid Kenya | Fumigation and Pest Control Services Company Nairobi Kenya</span>
+            <span className="font-heading font-bold text-xl tracking-tight">Exterminate Pests Kenya</span>
           </div>
           <p className="text-neutral-400 text-sm">
             Professional pest control and fumigation services across Kenya. Protecting your property, your health, and your peace of mind.
@@ -76,7 +76,7 @@ function Footer() {
         </div>
       </div>
       <div className="container mx-auto px-4 md:px-6 mt-12 pt-8 border-t border-neutral-800 flex flex-col md:flex-row justify-between items-center gap-4">
-        <p className="text-xs text-neutral-500">© 2026 Pestraid Kenya | Fumigation and Pest Control Services Company Nairobi Kenya. All rights reserved.</p>
+        <p className="text-xs text-neutral-500">© 2026 Exterminate Pests Kenya. All rights reserved.</p>
         <div className="flex gap-4">
           <a href="#" className="text-xs text-neutral-500 hover:text-white">Privacy Policy</a>
           <a href="#" className="text-xs text-neutral-500 hover:text-white">Terms of Service</a>

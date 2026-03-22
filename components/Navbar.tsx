@@ -54,9 +54,9 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 shrink-0">
             <div className="flex h-8 w-8 items-center justify-center rounded-sm bg-primary text-primary-foreground font-heading font-bold text-xl">
-              P
+              E
             </div>
-            <span className="font-heading font-bold text-sm md:text-base tracking-tight">Pestraid Kenya | Fumigation and Pest Control Services Company Nairobi Kenya</span>
+            <span className="font-heading font-bold text-lg md:text-xl tracking-tight">Exterminate Pests Kenya</span>
           </Link>
 
           {/* Desktop Navigation */}
@@ -152,9 +152,9 @@ export default function Navbar() {
         <div className="flex items-center justify-between px-5 py-4 border-b-2 border-black">
           <Link href="/" className="flex items-center gap-2" onClick={() => setIsOpen(false)}>
             <div className="flex h-7 w-7 items-center justify-center rounded-sm bg-primary text-primary-foreground font-heading font-bold text-base">
-              P
+              E
             </div>
-            <span className="font-heading font-bold text-xs tracking-tight">Pestraid Kenya | Fumigation and Pest Control Services Company Nairobi Kenya</span>
+            <span className="font-heading font-bold text-lg tracking-tight">Exterminate Pests Kenya</span>
           </Link>
           <button
             onClick={() => setIsOpen(false)}
