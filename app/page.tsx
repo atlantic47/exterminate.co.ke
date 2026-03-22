@@ -89,7 +89,7 @@ export default function HomePage() {
               Keeping a clean and safe space is a top priority for every property owner. We know that tropical climates often attract unwanted pests that harm health and assets. Locating effective pest control remains the best way to keep your environment secure.
             </p>
             <p className="text-neutral-300 mb-8 leading-relaxed">
-              Professional help ensures local bug or rodent issues vanish quickly. We believe high-quality extermination services provide the peace of mind needed to run a firm or enjoy a home. Reliable pest control Kenya options are now more accessible than ever before.
+              Professional help ensures local bug or rodent issues vanish quickly. We believe high-quality extermination services provide the peace of mind needed to run a firm or enjoy a home. Reliable <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 underline font-semibold">pest control Kenya</a> options are now more accessible than ever before.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Link href="/contact" className="inline-flex h-14 items-center justify-center bg-white text-black px-10 text-base font-bold hover:bg-neutral-100 transition-colors">
@@ -310,7 +310,7 @@ export default function HomePage() {
               <h3 className="font-heading font-bold text-xl mb-4 flex items-center gap-2">
                 <Bug className="w-5 h-5 text-primary" /> Addressing Cockroach and Ant Infestations
               </h3>
-              <p className="text-neutral-600 text-sm mb-4 leading-relaxed">Cockroaches and ants are common pests in Kenyan homes and businesses. They cause stress and health risks. To tackle these pests, we use a variety of methods.</p>
+              <p className="text-neutral-600 text-sm mb-4 leading-relaxed">Cockroaches and ants are common pests in Kenyan homes and businesses. They cause stress and health risks. To tackle these pests effectively, you can rely on comprehensive <a href="https://pestraid.co.ke/services/cockroaches-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">cockroach control services in Kenya</a> that use a variety of proven methods.</p>
               <ul className="space-y-2">
                 {[
                   "Identifying and sealing entry points to prevent re-infestation",
@@ -331,7 +331,7 @@ export default function HomePage() {
               <h3 className="font-heading font-bold text-xl mb-4 flex items-center gap-2">
                 <Building2 className="w-5 h-5 text-primary" /> Managing Rodent Control in Urban Environments
               </h3>
-              <p className="text-neutral-600 text-sm mb-4 leading-relaxed">Rodents are a challenge in cities because they adapt easily. Effective control involves exclusion, sanitation, and targeted treatments. We seal all entry points to stop rodents — they can fit through tiny openings.</p>
+              <p className="text-neutral-600 text-sm mb-4 leading-relaxed">Rodents are a challenge in cities because they adapt easily. Effective control involves exclusion, sanitation, and targeted <a href="https://pestraid.co.ke/services/rats-and-mice-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">rat and mice control services</a>. We seal all entry points to stop rodents — they can fit through tiny openings.</p>
               <div className="bg-[#fbf7f0] border-2 border-black p-4">
                 <blockquote className="italic text-sm text-neutral-600">
                   "Rodent control is not just about eliminating the current population but also about preventing future infestations through proactive measures."
@@ -393,7 +393,7 @@ export default function HomePage() {
           <span className="text-xs font-bold uppercase tracking-widest text-neutral-400 mb-3 block">Construction</span>
           <h2 className="text-3xl md:text-4xl font-heading font-black tracking-tight mb-4">Managing Termite Risks in Kenyan Construction</h2>
           <p className="text-neutral-600 leading-relaxed mb-4 max-w-3xl">In Kenyan construction, it's vital to manage termite risks to keep buildings safe and strong. Termites, especially subterranean termites, can harm buildings a lot if not stopped. Knowing the risks and using good management strategies helps prevent damage.</p>
-          <p className="text-neutral-600 leading-relaxed mb-6 max-w-3xl">Signs of subterranean termite activity include mud tubes on walls and discarded wings near windows. Also, look for damaged wood. Regular checks are important for catching them early. Soil treatments are a big part of termite control — they involve putting termiticides in the soil around and under foundations.</p>
+          <p className="text-neutral-600 leading-relaxed mb-6 max-w-3xl">Signs of subterranean termite activity include mud tubes on walls and discarded wings near windows. Also, look for damaged wood. Regular checks are important, and consulting experts for <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">termite control services in Kenya</a> is highly recommended. Soil treatments are a big part of termite control — they involve putting termiticides in the soil around and under foundations.</p>
 
           <div className="overflow-x-auto">
             <table className="w-full border-2 border-black text-sm mb-3">
@@ -427,7 +427,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 md:px-6 max-w-5xl">
           <span className="text-xs font-bold uppercase tracking-widest text-neutral-400 mb-3 block">Vector-Borne Pests</span>
           <h2 className="text-3xl md:text-4xl font-heading font-black tracking-tight mb-6">Controlling Mosquitoes and Vector-Borne Pests</h2>
-          <p className="text-neutral-600 leading-relaxed mb-10 max-w-3xl">Effective mosquito control is key to keeping people safe in Kenya. Mosquitoes spread diseases like malaria, dengue fever, and chikungunya. So, controlling them is a top priority. We need to fight mosquitoes in many ways.</p>
+          <p className="text-neutral-600 leading-relaxed mb-10 max-w-3xl">Effective mosquito control is key to keeping people safe in Kenya. Mosquitoes spread diseases like malaria, dengue fever, and chikungunya. If you live in an endemic area, professional <a href="https://pestraid.co.ke/services/mosquitoes-and-sand-flies-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">mosquitoes and sand flies control services</a> are a top priority. We need to fight mosquitoes in many ways.</p>
           <div className="grid md:grid-cols-2 gap-8">
             <div>
               <h3 className="font-heading font-bold text-xl mb-4">Eliminating Breeding Grounds Around the Property</h3>
@@ -516,7 +516,7 @@ export default function HomePage() {
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-[#fbf7f0] border-2 border-black p-6">
               <h3 className="font-heading font-bold text-lg mb-2">Dealing with Bed Bug Outbreaks</h3>
-              <p className="text-neutral-600 text-sm leading-relaxed">Bed bugs are tough and uncomfortable. To manage them, we use chemicals, clean thoroughly, and sometimes special tools. Acting fast is key when bed bugs strike. We suggest a mix of washing bedding, using mattress covers, and targeted chemical treatments.</p>
+              <p className="text-neutral-600 text-sm leading-relaxed">Bed bugs are tough and uncomfortable. To manage them, we use chemicals, clean thoroughly, and sometimes special tools. Acting fast is key — if you suspect an infestation, seeking professional <a href="https://pestraid.co.ke/services/bed-bugs-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">bed bugs control services</a> is highly recommended. We suggest a mix of washing bedding, using mattress covers, and targeted chemical treatments.</p>
             </div>
             <div className="bg-[#fbf7f0] border-2 border-black p-6">
               <h3 className="font-heading font-bold text-lg mb-2">Managing Seasonal Pest Migrations</h3>
