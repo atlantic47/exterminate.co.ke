@@ -415,7 +415,7 @@ export default function HomePage() {
               </tbody>
             </table>
           </div>
-          <p className="text-xs text-neutral-400 mb-6">Understanding termite signs and using soil treatments can greatly lower termite damage risks. Regular checks and upkeep are crucial for lasting protection.</p>
+          <p className="text-xs text-neutral-400 mb-6">Understanding termite signs and using soil treatments can greatly lower termite damage risks. Scheduling regular checks with trusted <a href="https://www.termitescontrolservices.co.ke/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">termite control specialists</a> is crucial for lasting protection.</p>
           <Link href="/services/termite-control" className="inline-flex h-12 items-center justify-center bg-primary text-white px-8 text-sm font-bold hover:bg-primary/90">
             Learn About Termite Control <ChevronRight className="ml-2 w-4 h-4" />
           </Link>

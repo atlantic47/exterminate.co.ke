@@ -70,7 +70,7 @@ const posts: Record<string, {
           If you observe any of the above signs — particularly mud tubes or hollow-sounding timber — do not attempt to treat the infestation yourself. Over-the-counter termite sprays only kill surface termites; they do not penetrate the colony. Improper treatment can cause the colony to scatter, making professional treatment harder and more expensive.
         </p>
         <p className="text-neutral-600 leading-relaxed mb-6">
-          Contact a certified pest control specialist immediately. In Nairobi, Mombasa, and across Kenya, you can reach us at Exterminate for a free inspection. For pricing comparisons and an independent view, <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">Pestraid Kenya's termite control page</a> is an excellent resource.
+          Contact a certified pest control specialist immediately. You can reach out to dedicated <a href="https://www.termitescontrolservices.co.ke/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">termite control services</a> for an expert assessment. In Nairobi, Mombasa, and across Kenya, you can reach us at Exterminate for a free inspection. For pricing comparisons and an independent view, <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">Pestraid Kenya's termite control page</a> is an excellent resource.
         </p>
 
         <div className="bg-[#fbf7f0] border-2 border-black p-8 mt-10">

@@ -63,22 +63,27 @@ export default function Navbar() {
           <nav className="hidden md:flex items-center gap-1">
             {navLinks.map((link) =>
               link.children ? (
-                <div key={link.href} className="relative">
-                  <button
-                    onClick={() => setServicesOpen((v) => !v)}
-                    onBlur={() => setTimeout(() => setServicesOpen(false), 150)}
+                <div 
+                  key={link.href} 
+                  className="relative group"
+                  onMouseEnter={() => setServicesOpen(true)}
+                  onMouseLeave={() => setServicesOpen(false)}
+                >
+                  <Link
+                    href={link.href}
                     className="flex items-center gap-1 px-3 py-2 text-sm font-medium hover:text-primary transition-colors rounded"
                     aria-expanded={servicesOpen}
                   >
                     {link.label}
                     <ChevronDown className={`w-3.5 h-3.5 transition-transform ${servicesOpen ? "rotate-180" : ""}`} />
-                  </button>
+                  </Link>
                   {servicesOpen && (
                     <div className="absolute top-full left-0 mt-1 w-52 bg-white border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] z-50">
                       {link.children.map((child) => (
                         <Link
                           key={child.href}
                           href={child.href}
+                          onClick={() => setServicesOpen(false)}
                           className={`block px-4 py-2.5 text-sm font-medium hover:bg-[#fbf7f0] transition-colors border-b border-neutral-100 last:border-b-0 ${pathname === child.href ? "text-primary font-bold" : ""}`}
                         >
                           {child.label}
@@ -178,6 +183,7 @@ export default function Navbar() {
                       <Link
                         key={child.href}
                         href={child.href}
+                        onClick={() => setIsOpen(false)}
                         className={`flex items-center gap-2 pl-8 pr-5 py-3 text-sm font-medium border-b border-neutral-100 last:border-b-0 hover:text-primary transition-colors ${pathname === child.href ? "text-primary font-bold" : "text-neutral-700"}`}
                       >
                         <span className="w-1.5 h-1.5 rounded-full bg-primary shrink-0" />
@@ -191,6 +197,7 @@ export default function Navbar() {
               <Link
                 key={link.href}
                 href={link.href}
+                onClick={() => setIsOpen(false)}
                 className={`block px-5 py-3.5 text-sm font-bold border-b border-neutral-100 hover:bg-[#fbf7f0] transition-colors ${pathname === link.href ? "text-primary" : ""}`}
               >
                 {link.label}

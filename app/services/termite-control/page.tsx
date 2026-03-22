@@ -65,7 +65,7 @@ export default function TermiteControlPage() {
               Effective Termite Control Solutions for Homeowners
             </h1>
             <p className="text-lg text-neutral-300 mb-4 leading-relaxed">
-              In Kenya, wood-eating pests are a big threat to our homes. They can silently damage the wooden parts of a house, causing costly repairs. Our warm weather helps these pests grow, so we must stay vigilant.
+              In Kenya, wood-eating pests are a big threat to our homes. If you suspect an infestation, hiring seasoned <a href="https://www.termitescontrolservices.co.ke/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 underline font-semibold">termite control services</a> can save you from costly repairs and restore peace of mind.
             </p>
             <p className="text-neutral-400 mb-8 leading-relaxed">
               Protecting our homes starts with local knowledge and care. By keeping our buildings strong, we can avoid expensive damage. A professional termite inspection is key to catching infestations early.
@@ -165,7 +165,7 @@ export default function TermiteControlPage() {
         <div className="container mx-auto px-4 md:px-6 max-w-5xl">
           <span className="text-xs font-bold uppercase tracking-widest text-neutral-400 mb-3 block">Professional Services</span>
           <h2 className="text-4xl font-heading font-black tracking-tight mb-6">Professional Termite Control Services</h2>
-          <p className="text-neutral-600 leading-relaxed mb-10 max-w-3xl">In Kenya, professional termite control services are key to protecting homes from termite damage. Termites can cause serious harm to buildings if not treated quickly and correctly. Our services offer detailed solutions that fit your property's unique needs. You can also compare professional service offerings at <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener" className="text-primary font-semibold underline underline-offset-2 hover:text-primary/80">Pestraid Kenya's professional termite treatment service</a> to understand the range of specialist options available in Kenya.</p>
+          <p className="text-neutral-600 leading-relaxed mb-10 max-w-3xl">In Kenya, <a href="https://www.termitescontrolservices.co.ke/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">professional termite control services</a> are key to protecting homes from termite damage. Termites can cause serious harm to buildings if not treated quickly and correctly. Our services offer detailed solutions that fit your property's unique needs. You can also compare professional service offerings at <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener" className="text-primary font-semibold underline underline-offset-2 hover:text-primary/80">Pestraid Kenya's professional termite treatment service</a> to understand the range of specialist options available in Kenya.</p>
           <div className="grid md:grid-cols-2 gap-8">
             <div className="border-2 border-black p-8">
               <ShieldCheck className="w-8 h-8 text-primary mb-4" />

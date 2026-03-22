@@ -16,6 +16,7 @@ const services = [
     description:
       "Subterranean termites silently destroy billions of shillings in property across Kenya every year. Our multi-layered treatment — soil barriers, bait stations, and wood treatment — offers comprehensive protection.",
     features: ["Soil Pre/Post-Treatment", "Baiting Systems", "Wood Treatment", "Structural Inspections"],
+    termiteBacklink: { label: "termite control services", href: "https://www.termitescontrolservices.co.ke/" },
     backlink: { label: "View Pestraid's termite control pricing", href: "https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" },
   },
   {
@@ -103,6 +104,11 @@ export default function ServicesPage() {
                 </div>
                 <div className="p-8 flex flex-col flex-grow gap-4">
                   <p className="text-neutral-600 leading-relaxed text-sm flex-grow">{svc.description}</p>
+                  {(svc as { termiteBacklink?: { label: string; href: string } }).termiteBacklink && (
+                    <p className="text-xs text-neutral-500">
+                      See also: <a href={(svc as { termiteBacklink?: { label: string; href: string } }).termiteBacklink!.href} target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold hover:text-blue-800">{(svc as { termiteBacklink?: { label: string; href: string } }).termiteBacklink!.label}</a>
+                    </p>
+                  )}
                   <ul className="space-y-2 my-4">
                     {svc.features.map((f) => (
                       <li key={f} className="flex items-center gap-2 text-sm font-medium">
