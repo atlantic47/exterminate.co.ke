@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import { CheckCircle2, AlertTriangle, ChevronRight, Phone, ShieldCheck, Leaf, FlaskConical } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "General Fumigation Services in Kenya | Exterminate.co.ke",
+  title: "General Fumigation Services in Kenya | Pestraid Kenya",
   description: "Professional whole-structure fumigation services across Kenya. KEBS-approved fumigants, re-entry clearance certificates, and retreatment guarantees for homes and businesses.",
 };
 

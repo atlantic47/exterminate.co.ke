@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ChevronRight, Clock } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Pest Control Blog | Exterminate Kenya — Expert Tips & Guides",
+  title: "Pest Control Blog | Pestraid Kenya — Expert Tips & Guides",
   description: "Educational pest control articles for Kenyan homeowners and businesses. Learn about termites, bed bugs, fumigation, rodents, and more from Kenya's pest control experts.",
 };
 

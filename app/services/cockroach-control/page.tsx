@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import { CheckCircle2, AlertTriangle, ChevronRight, Phone, Bug } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Cockroach Control in Kenya | Exterminate.co.ke",
+  title: "Cockroach Control in Kenya | Pestraid Kenya",
   description: "Professional cockroach control services across Kenya. Gel baiting, residual sprays, and crack-and-crevice treatments to eliminate German and American cockroach infestations.",
 };
 

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import { CheckCircle2, AlertTriangle, ChevronRight, Phone, ShieldCheck, Leaf } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Termite Control in Kenya | Exterminate.co.ke",
+  title: "Termite Control in Kenya | Pestraid Kenya",
   description: "Professional termite control and prevention services across Kenya. Expert solutions for subterranean and drywood termites — soil barriers, baiting systems, wood treatments.",
 };
 

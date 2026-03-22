@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import { CheckCircle2, AlertTriangle, ChevronRight, Phone, ShieldCheck } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Rodent Control in Kenya | Exterminate.co.ke",
+  title: "Rodent Control in Kenya | Pestraid Kenya",
   description: "Professional rat and mouse control services across Kenya. Baiting, trapping, exclusion sealing, and ongoing monitoring to eliminate and prevent rodent infestations.",
 };
 

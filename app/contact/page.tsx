@@ -3,8 +3,8 @@ import Link from "next/link";
 import { Phone, Mail, MapPin, Clock, ChevronRight, CheckCircle2 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Contact Exterminate | Book Pest Control in Kenya",
-  description: "Contact Exterminate Kenya for professional pest control services. Call, WhatsApp, or fill out our form for a free inspection. Serving all of Kenya.",
+  title: "Contact Pestraid Kenya | Book Pest Control in Kenya",
+  description: "Contact Pestraid Kenya for professional pest control services. Call, WhatsApp, or fill out our form for a free inspection. Serving all of Kenya.",
 };
 
 const faqs = [
@@ -112,7 +112,7 @@ export default function ContactPage() {
               <div className="flex flex-col gap-4">
                 {[
                   { Icon: Phone, label: "Phone / WhatsApp", value: "+254 710 907 628", href: "tel:+254710907628" },
-                  { Icon: Mail, label: "Email", value: "info@exterminate.co.ke", href: "mailto:info@exterminate.co.ke" },
+                  { Icon: Mail, label: "Email", value: "info@pestraid.co.ke", href: "mailto:info@pestraid.co.ke" },
                   { Icon: MapPin, label: "Head Office", value: "Nairobi, Kenya", href: "/service-area" },
                   { Icon: Clock, label: "Operating Hours", value: "Monday – Sunday, 7am – 7pm", href: null },
                 ].map((item, i) => (

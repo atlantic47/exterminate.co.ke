@@ -3,8 +3,8 @@ import Link from "next/link";
 import { MapPin, Phone, ChevronRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Pest Control Service Areas in Kenya | Exterminate",
-  description: "Exterminate provides pest control and fumigation services across Kenya — Nairobi (Westlands, Karen, Langata), Mombasa, Kisumu, Nakuru, Eldoret, and more.",
+  title: "Pest Control Service Areas in Kenya | Pestraid Kenya",
+  description: "Pestraid Kenya provides pest control and fumigation services across Kenya — Nairobi (Westlands, Karen, Langata), Mombasa, Kisumu, Nakuru, Eldoret, and more.",
 };
 
 const areas = [

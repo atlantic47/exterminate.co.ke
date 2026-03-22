@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Bug, Rat, ShieldCheck, ChevronRight, Zap, Flame } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Pest Control Services in Kenya | Exterminate",
+  title: "Pest Control Services in Kenya | Pestraid Kenya",
   description: "Full-service pest control and fumigation in Kenya. We handle termites, bed bugs, cockroaches, rodents, and more with KEBS-certified treatments.",
 };
 

@@ -3,8 +3,8 @@ import Link from "next/link";
 import { ShieldCheck, Award, Users, CheckCircle2, ChevronRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "About Exterminate | Professional Pest Control Kenya",
-  description: "Learn about Exterminate Kenya — our mission, our approach, and why we're trusted by thousands of homes and businesses across Kenya for professional pest control.",
+  title: "About Pestraid Kenya | Professional Pest Control Kenya",
+  description: "Learn about Pestraid Kenya — our mission, our approach, and why we're trusted by thousands of homes and businesses across Kenya for professional pest control.",
 };
 
 const pillars = [
@@ -25,7 +25,7 @@ export default function AboutPage() {
             Protecting Kenyan Homes & Businesses Since Day One
           </h1>
           <p className="text-lg text-neutral-300 max-w-2xl">
-            Exterminate was founded on a simple belief: Kenyans deserve access to professional-grade pest control that is honest, effective, and genuinely affordable — not corner-cutting, not guesswork.
+            Pestraid Kenya | Fumigation and Pest Control Services Company Nairobi Kenya was founded on a simple belief: Kenyans deserve access to professional-grade pest control that is honest, effective, and genuinely affordable — not corner-cutting, not guesswork.
           </p>
         </div>
       </section>

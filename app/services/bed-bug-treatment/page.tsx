@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import { CheckCircle2, AlertTriangle, ChevronRight, Phone, ShieldCheck, Thermometer } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Bed Bug Treatment in Kenya | Exterminate.co.ke",
+  title: "Bed Bug Treatment in Kenya | Pestraid Kenya",
   description: "Expert bed bug treatment services across Kenya. Heat treatment, targeted fumigation, and residual sprays to completely eliminate bed bug infestations in homes and hotels.",
 };
 
