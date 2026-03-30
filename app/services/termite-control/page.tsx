@@ -118,7 +118,7 @@ export default function TermiteControlPage() {
             </div>
             <div className="bg-[#fbf7f0] border-2 border-black p-8">
               <h3 className="font-heading font-bold text-xl mb-4">Why Kenyan Climates Favour Termite Activity</h3>
-              <p className="text-neutral-600 text-sm leading-relaxed mb-4">Kenya's climate is great for termites. The warm weather and humidity are perfect for them. Places with lots of rain and moisture are even better for termites because they help colonies grow.</p>
+              <p className="text-neutral-600 text-sm leading-relaxed mb-4">Kenya's climate is great for termites. The warm weather and humidity are perfect for them. Places with lots of rain and moisture are even better for termites because they help colonies grow. Such humid conditions are also a leading cause of fungal spread, which is why securing professional <a href="https://moldguardkenya.co.ke/" target="_blank" rel="noopener noreferrer" className="text-primary font-semibold underline hover:text-primary/80">mold management strategies</a> is often necessary.</p>
               <p className="text-neutral-600 text-sm leading-relaxed">Kenya's geography and climate make termites common everywhere. Homeowners need to understand this to protect their homes from termites.</p>
             </div>
           </div>
@@ -365,7 +365,7 @@ export default function TermiteControlPage() {
             </div>
             <div className="bg-white border-2 border-black p-8">
               <h3 className="font-heading font-bold text-xl mb-4">Improving Ventilation in Crawl Spaces</h3>
-              <p className="text-neutral-600 text-sm leading-relaxed mb-4">The crawl space under your home is another key area for moisture control. Better ventilation in crawl spaces reduces moisture. Make sure your crawl space has enough vents for air to move.</p>
+              <p className="text-neutral-600 text-sm leading-relaxed mb-4">The crawl space under your home is another key area for moisture control. Better ventilation in crawl spaces reduces moisture. Make sure your crawl space has enough vents for air to move. Keeping this area dry prevents wooden structures from decaying and curtails conditions that require <a href="https://moldguardkenya.co.ke/services" target="_blank" rel="noopener noreferrer" className="text-primary font-semibold underline hover:text-primary/80">mold removal services</a>.</p>
               <p className="text-neutral-600 text-sm leading-relaxed">Also, think about using vapor barriers to stop moisture from the soil. Check your crawl space for moisture or water often and fix any problems right away. Effective moisture management makes your home less appealing to termites.</p>
             </div>
           </div>

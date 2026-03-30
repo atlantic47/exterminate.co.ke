@@ -214,7 +214,7 @@ export default function HomePage() {
             <div className="bg-white border-2 border-black p-8 hover:-translate-y-1 transition-transform">
               <Home className="w-8 h-8 text-primary mb-4" />
               <h3 className="font-heading font-bold text-xl mb-3">Sanitation Practices Before Extermination</h3>
-              <p className="text-neutral-600 text-sm leading-relaxed mb-4">One key step is to follow good sanitation practices. Clean your place well, throw away trash, and get rid of clutter. Poor waste management immediately attracts flying insects, which may suddenly necessitate intense <a href="https://pestraid.co.ke/services/houseflies-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">houseflies control services</a> to sanitize your kitchen and dining areas.</p>
+              <p className="text-neutral-600 text-sm leading-relaxed mb-4">One key step is to follow good sanitation practices. Clean your place well, throw away trash, and get rid of clutter. Poor waste management immediately attracts flying insects, which may suddenly necessitate intense <a href="https://pestraid.co.ke/services/houseflies-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-semibold">houseflies control services</a> to sanitize your kitchen and dining areas. Keeping areas thoroughly clean also manages hidden moisture, minimizing the likelihood of needing professional <a href="https://moldguardkenya.co.ke/" target="_blank" rel="noopener noreferrer" className="text-primary font-semibold underline hover:text-primary/80">mold remediation</a>.</p>
               <p className="text-neutral-600 text-sm leading-relaxed">Make sure to clean counters, sweep and mop floors. Kitchens and bathrooms should be spotless. Cleanliness helps the treatment work better.</p>
             </div>
             <div className="bg-white border-2 border-black p-8 hover:-translate-y-1 transition-transform">
@@ -285,7 +285,7 @@ export default function HomePage() {
             <div className="bg-white border-2 border-black p-8">
               <FlaskConical className="w-8 h-8 text-primary mb-4" />
               <h3 className="font-heading font-bold text-xl mb-3">Combining Chemical and Non-Chemical Methods</h3>
-              <p className="text-neutral-600 text-sm leading-relaxed mb-4">IPM uses both chemical and non-chemical methods. Chemical methods use pesticides, which can work but also have risks. Non-chemical methods include keeping things clean, keeping pests out, and using physical barriers.</p>
+              <p className="text-neutral-600 text-sm leading-relaxed mb-4">IPM uses both chemical and non-chemical methods. Chemical methods use pesticides, which can work but also have risks. Non-chemical methods include keeping things clean, keeping pests out, and using physical barriers. Addressing environmental humidity is also critical, and integrating expert <a href="https://moldguardkenya.co.ke/services" target="_blank" rel="noopener noreferrer" className="text-primary font-semibold underline hover:text-primary/80">mold control services</a> will ensure a completely healthy property framework.</p>
               <blockquote className="border-l-4 border-primary pl-4 italic text-sm text-neutral-500">
                 "The goal of IPM is to manage pests in a way that works well and is sustainable." — pest management experts
               </blockquote>
