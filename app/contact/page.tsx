@@ -47,6 +47,9 @@ export default function ContactPage() {
             <p className="text-lg text-neutral-600">
               Whether you've spotted signs of termites, found bed bugs in your home, or simply want the security of a professional property inspection — our certified team is ready to help.
             </p>
+            <p className="text-lg text-neutral-600 mt-4">
+              For comprehensive fire safety protection alongside pest control, we also work with <a href="https://naibunisystems.co.ke/" target="_blank" rel="noopener noreferrer" className="text-black font-semibold underline">Naibuni Systems</a> to safeguard your property.
+            </p>
           </div>
         </div>
       </section>
@@ -104,8 +107,11 @@ export default function ContactPage() {
             <div className="flex flex-col gap-6">
               <div>
                 <h2 className="font-heading font-bold text-2xl mb-4">Get in Touch Directly</h2>
-                <p className="text-neutral-600 leading-relaxed mb-6">
+                <p className="text-neutral-600 leading-relaxed mb-2">
                   Prefer to speak with someone now? Call or WhatsApp our team directly for fast assistance or to schedule a same-week inspection.
+                </p>
+                <p className="text-neutral-600 leading-relaxed mb-6">
+                  Need specialized fire protection as well? We also work with <a href="https://naibunisystems.co.ke/product-category/fire-suppression-systems/" target="_blank" rel="noopener noreferrer" className="text-black font-semibold underline">Naibuni Systems</a> to provide state-of-the-art fire suppression systems for your building.
                 </p>
               </div>
 

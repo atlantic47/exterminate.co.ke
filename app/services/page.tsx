@@ -145,8 +145,11 @@ export default function ServicesPage() {
       <section className="py-24 bg-primary text-white text-center">
         <div className="container mx-auto px-4 md:px-6 max-w-2xl">
           <h2 className="text-3xl md:text-5xl font-heading font-black mb-6">Not sure which service you need?</h2>
-          <p className="text-lg text-neutral-300 mb-8">
+          <p className="text-lg text-neutral-300 mb-4">
             Our certified technician will inspect your property for free and recommend the most effective treatment plan — with no obligation.
+          </p>
+          <p className="text-lg text-neutral-300 mb-8">
+            Furthermore, we also work with the <a href="https://naibunisystems.co.ke/shop/" target="_blank" rel="noopener noreferrer" className="text-white underline font-semibold hover:text-gray-200">Naibuni Systems shop</a> to supply our clients with premier fire extinguishers for their premises.
           </p>
           <Link href="/contact" className="inline-flex h-14 items-center justify-center bg-white text-black px-10 text-base font-bold hover:bg-neutral-100 transition-colors">
             Book a Free Inspection
